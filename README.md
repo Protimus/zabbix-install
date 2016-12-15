@@ -19,5 +19,5 @@ Server=127.0.0.1
 
 
 ### Notes
-  * The zabbix agent are putted in service startup, so they will start every time when you start the OS.
+  * The zabbix agent are putted in service startup, so it will start every time when you start the OS.
   * Is important to do a backup of zabbix before start this script, if you already have a zabbix running.
